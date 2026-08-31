@@ -1,0 +1,6 @@
+How to link GitHub with VS Code terminal
+
+1. Download Git for Windows
+2. Sign in to VS Code by clicking on the profile icon in the bottom left
+  a. For me, this occurred automatically, not sure if this is standard
+3. If all is done, there is a prompt to clone and a drop down to select.
